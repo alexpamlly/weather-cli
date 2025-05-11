@@ -1,0 +1,6 @@
+version: 0.0.1
+name: weather-cli
+description: A simple Python CLI to show mock weather data.
+language: python
+repository: https://github.com/your-username/weather-cli
+license: MIT
